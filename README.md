@@ -205,11 +205,11 @@ A 5-page interactive Power BI report with synced Channel and Region slicers on e
 
 > Screenshots of all Power BI pages and Excel dashboards are available in `powerbi/dashboard_screenshots/`.
 
-![Executive Summary](POWER%20BI/dashboard_screenshots/Marketing_Campaigns_PBI_Report_page-0001.jpg)
-![Channel Performance Analysis](powerbi/dashboard_screenshots/Marketing_Campaigns_PBI_Report_page-0003.jpg)
-![Campaign Analysis](powerbi/dashboard_screenshots/Marketing_Campaigns_PBI_Report_page-0004.jpg)
-![Region & Client Analysis](powerbi/dashboard_screenshots/Marketing_Campaigns_PBI_Report_page-0005.jpg)
-![Trend Analysis](powerbi/dashboard_screenshots/Marketing_Campaigns_PBI_Report_page-0006.jpg)
+![Executive Summary](POWER%20BI/dashboard_screenshots/Marketing_Campaigns_PBI_Report_page-0002.jpg)
+![Channel Performance Analysis](POWER%20BI/dashboard_screenshots/Marketing_Campaigns_PBI_Report_page-0003.jpg)
+![Campaign Analysis](POWER%20BI/dashboard_screenshots/Marketing_Campaigns_PBI_Report_page-0004.jpg)
+![Region & Client Analysis](POWER%20BI/dashboard_screenshots/Marketing_Campaigns_PBI_Report_page-0005.jpg)
+![Trend Analysis](POWER%20BI/dashboard_screenshots/Marketing_Campaigns_PBI_Report_page-0006.jpg)
 
 ---
 
